@@ -1,6 +1,6 @@
 Component Library
 
-Perseus's Component Library
+Ratul's Component Library
 ===========================
 
 I am attending neog.camp and I want to make a library which would make all my projects look good and consistent.
